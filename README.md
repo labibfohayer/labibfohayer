@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on **open-source web development and automation projects**.
 - 🤔 I’m looking for help with **scaling full-stack applications**.
 - 💬 Ask me about **Frontend Development (React, Tailwind), Python, and E-commerce management**.
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/labib-fohayer)**
+- 📫 How to reach me: **[WhatsApp](https://wa.me/8801580506445)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I transitioned from working as a delivery rider and salesman to founding my own tech agency, Webpulse Automation!**
 ### 👨‍💻 About Me:
