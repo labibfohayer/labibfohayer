@@ -7,7 +7,7 @@
 - 📫 How to reach me: **[WhatsApp](https://wa.me/8801580506445)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I transitioned from working as a delivery rider and salesman to founding my own tech agency, Webpulse Automation!**
-### 👨‍💻 About Me:
+### 👨💻 About Me:
 
 Hi, I'm **Labib Fohayer**, a passionate Web Developer and Tech Entrepreneur based in Bangladesh. As the Founder & Chairman of **Webpulse Automation**, I specialize in building responsive web applications, custom chatbots, and business automation solutions. 
 
@@ -42,3 +42,11 @@ Whether it is developing efficient management tools like *BD Mess* and *Hisab Ap
 [![](https://komarev.com/ghpvc/?username=labibfohayer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🐍 Contribution Graph Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/labibfohayer/labibfohayer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/labibfohayer/labibfohayer/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/labibfohayer/labibfohayer/output/github-contribution-grid-snake.svg">
+</picture>
