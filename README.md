@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1584" height="396" alt="Neutral Minimalist Brand Manager LinkedIn Banner" src="https://github.com/user-attachments/assets/386a65e9-186d-4330-b298-f8da6a1094ec" />
+<img width="1600" height="480" alt="Yellow and Black Modern LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/3c660d63-8a85-46c2-8ca4-fd40e88749ff" />
 </p>
 
 <p align="center">
