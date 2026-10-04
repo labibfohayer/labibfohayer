@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eef2dca2-be04-45a9-84f5-9610522ad103" width="100%" alt="Labib Fohayer - Founder & CEO @ Webpulse Automation" />
+  <img src="https://github.com/user-attachments/assets/dfd6e765-570f-46e0-8900-24ff1872fe64" width="100%" alt="Labib Fohayer - Founder & CEO @ Webpulse Automation" />
 </p>
 
 <p align="center">
@@ -9,7 +9,6 @@
 </p>
 
 ---
-
 ## Hi there 👋
 - 🔭 I’m currently working on **Webpulse Automation** and various **Web Development Projects** (like BD Mess & Hisab App).
 - 🌱 I’m currently learning **Advanced React, Python, and AI Automation tools**.
