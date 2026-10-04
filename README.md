@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e579da58-2d54-459e-bf59-200bd033792c" width="100%" alt="Labib Fohayer - Founder & CEO @ Webpulse Automation" />
+<img width="1584" height="396" alt="Neutral Minimalist Brand Manager LinkedIn Banner" src="https://github.com/user-attachments/assets/386a65e9-186d-4330-b298-f8da6a1094ec" />
 </p>
 
 <p align="center">
