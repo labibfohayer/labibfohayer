@@ -1,10 +1,10 @@
 <p align="center">
-<img width="1600" height="480" alt="Yellow and Black Modern LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/3c660d63-8a85-46c2-8ca4-fd40e88749ff" />
+  <img src="https://github.com/user-attachments/assets/3c660d63-8a85-46c2-8ca4-fd40e88749ff" width="100%" alt="Labib Fohayer - Founder & CEO @ Webpulse Automation" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Founder+%26+CEO+%40+Webpulse+Automation;Full-Stack+Web+Developer;React+%26+Python+Specialist;Building+Scalable+Automation+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=CBD5E1&center=true&vCenter=true&width=550&lines=Founder+%26+CEO+%40+Webpulse+Automation;Full-Stack+Web+Developer;React+%26+Python+Specialist;Building+Scalable+Automation+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
