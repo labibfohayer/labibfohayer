@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bdbf66cf-1e08-42c9-9ff0-e095eca2d211" width="100%" alt="Labib Fohayer - Founder & CEO @ Webpulse Automation" />
+<img width="1600" height="480" alt="Yellow and Black Modern LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/eef2dca2-be04-45a9-84f5-9610522ad103" />
 </p>
 
 <p align="center">
