@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9bf00cb0-6865-4cad-9ebe-9cabe2ae9000" width="100%" alt="Labib Fohayer - Founder & CEO @ Webpulse Automation" />
+  <img src="https://github.com/user-attachments/assets/bdbf66cf-1e08-42c9-9ff0-e095eca2d211" width="100%" alt="Labib Fohayer - Founder & CEO @ Webpulse Automation" />
 </p>
 
 <p align="center">
