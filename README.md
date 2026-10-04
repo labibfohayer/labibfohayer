@@ -28,6 +28,30 @@ My journey into tech has been driven by pure passion and resilience—transition
 
 Whether it is developing efficient management tools like *BD Mess* and *Hisab App*, or scaling my e-commerce venture, *Ponyopuri*, I focus on understanding unique needs to deliver high-quality results. I am always eager to learn new AI automation tools, collaborate on impactful projects, and build solutions that truly make a difference.
 
+---
+
+### 🧩 Core Capabilities & Engineering Focus
+
+| Domain | What I Architect & Deliver |
+| :--- | :--- |
+| 🤖 **AI Automation & Smart Bots** | Custom AI-driven chatbots, workflow automations, and intelligent data-pipelines tailored for businesses. |
+| 🌐 **Full-Stack Web Architecture** | Scalable, high-performance responsive web applications built with modern frontend frameworks and clean APIs. |
+| 📊 **Business & SaaS Management Tools** | Cloud-based utility applications (e.g. *BD Mess*, *Hisab App*) automating daily accounts, billing, and resource management. |
+| 🛍️ **E-Commerce & Digital Infrastructure** | End-to-end e-commerce solutions, seamless payment integrations, inventory tracking, and client-centric UX. |
+
+<br/>
+
+### 🚀 Featured Production Projects
+
+| Project | Architecture & Role | Tech Stack | Production Status |
+| :--- | :--- | :--- | :---: |
+| [**BD Mess**](https://github.com/labibfohayer) | **Smart Living & Meal Management System**<br/>Streamlines shared apartment accounts, meal calculation, automated utility split, and transparency. | `React` `Tailwind` `Python` `Firebase` | 🟢 Live |
+| [**Hisab App**](https://github.com/labibfohayer) | **Daily Financial & Expense Tracker**<br/>High-speed, intuitive accounting solution for tracking daily business balance, cashflow, and visual logs. | `React` `JavaScript` `REST API` | 🟢 Active |
+| [**Ponyopuri**](https://github.com/labibfohayer) | **Modern E-Commerce Storefront**<br/>Engineered a customer-first storefront with scalable inventory management, cart systems, and brand experience. | `E-Commerce` `Tailwind` `Cloud` | 🟢 Live |
+| [**Webpulse Bots**](https://github.com/labibfohayer) | **Automated Customer Support Chatbot**<br/>24/7 intelligent business automation bot integrated with messaging APIs to auto-convert leads into clients. | `Python` `AI APIs` `Automation` | 🟢 Live 24/7 |
+
+---
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/labibfohayer) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/labib.fohayer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/labib_foahyer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/labib-fohayer) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@labib.fohayer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/labibfohayer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCSU3yYxc6X9eToQjXKPQt6w) 
 
