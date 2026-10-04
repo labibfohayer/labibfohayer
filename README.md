@@ -1,3 +1,26 @@
+<div align="center">
+  <!-- ১. ওয়েভ হেডার ও নাম -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9&height=200&section=header&text=Labib%20Fohayer&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20Chairman%20at%20Webpulse%20Automation&descAlignY=58" width="100%"/>
+
+  <!-- ২. নিজের ছবি -->
+  <img src="https://github.com/labibfohayer.png" width="140" height="140" style="border-radius: 50%; margin-top: -60px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
+
+  <!-- ৩. টাইপিং টেক্সট -->
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Founder+%40+Webpulse+Automation;Full-Stack+Web+Developer;React+%26+Python+Specialist;Building+Automation+Solutions" alt="Typing SVG" />
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
+
 ## Hi there 👋
 - 🔭 I’m currently working on **Webpulse Automation** and various **Web Development Projects** (like BD Mess & Hisab App).
 - 🌱 I’m currently learning **Advanced React, Python, and AI Automation tools**.
